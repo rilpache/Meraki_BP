@@ -1,0 +1,39 @@
+• General Switching Best Practices
+	• Layer 2 Features
+	• Layer 3 Features
+	• Topology
+	• Multicast
+	• High Availability and Redundancy
+		○ Switch Stacking
+		○ Warm Spare for Layer 3 Switches
+	• Quality of Service
+	• Cabling Best Practices for Multi-Gigabit operations
+• Large Campus Switching Best Practices
+	• Campus Design
+		○ The Aggregation Layer
+		○ The Access Layer
+	• Topology
+	• QoS Considerations in the Campus
+	• Security Settings
+	• Multiple VLANs
+	• Administration & Access Control
+	• Visibility
+		○ Enabling Traffic Analytics
+		○ Using Traffic Analytics
+		○ Signature or Application-Level Analytics
+		○ User Level Analytics
+	• Troubleshooting with MS
+• Templates for Switching Best Practices
+	• Planning a Template Deployment
+		○ Layer 3 Routing & DHCP
+		○ Template Networks
+		○ Switch Templates
+		○ Guidelines and Limitations
+	• Configuration
+		○ Creating a Template Network
+		○ Configuring a Template Network
+		○ Creating and Using Switch Templates
+			§ Local Overrides
+			§ Auto-Binding Switches
+	• Auditing a Template Deployment
+	• Switch Replacement Walkthrough for Stacks
